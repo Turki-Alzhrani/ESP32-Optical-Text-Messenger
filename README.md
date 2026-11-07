@@ -28,8 +28,6 @@ Send text from a phone browser through an LED to an Arduino UNO with an OLED dis
 
 <img src="images/arduino-receiver.jpeg" alt="Arduino UNO receiver" width="450">
 
-<img src="images/optical-front-end.jpeg" alt="LDR, potentiometer and OLED receiver circuit" width="650">
-
 ## Demo
 
 | Phone | OLED |
